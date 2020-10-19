@@ -1,9 +1,9 @@
 ### Leonardo Nakao :alien:👋
 
 
-- 🔭 I currently work as a Full Stack Developer at CODE 49 development a CRM for Real Estate. 
+- 🔭 I currently work as a Full Stack Developer at Firework Web & Mobile. 
 
-- 🌱 I’m currently learning more about NodeJs, MongoDb and Clean Architecture.
+- 🌱 I’m currently learning more about NodeJs, Laravel and Clean Architecture.
 
 - ⚡ Fun fact: Besides high school I was a teach on a Robotic Course using Arduino and Lego MindStorm.
 
